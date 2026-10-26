@@ -1,0 +1,10 @@
+Metric,Value
+Total_Validation_Cases,83
+CAM_Success_Rate_Pct,100
+Mean_CAM_Coverage_Pct,25.0000606136625
+Mean_Macular_Attention_Pct,16.8593228030737
+Mean_OD_Attention_Pct,1.22459549322695
+Referable_Lesion_Cases_N,52
+Referable_Mean_Dice,0.254018350853996
+Referable_Mean_Recall_Pct,87.7016702002489
+Referable_Mean_Precision_Pct,14.9310377220273

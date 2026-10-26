@@ -1,0 +1,9 @@
+Metric,Training_Split_N330,Validation_Split_N83
+Total_Images,330,83
+Reliability_Mean,70.8565112711317,66.9573957343558
+Reliability_Std,21.0842329014163,23.2497799788108
+Accepted_Screenings,259,60
+Recaptures,60,21
+Clinical_Reviews,2,1
+Uncertain_Cases,9,1
+Decision_Readiness_Coverage,78.4848484848485,72.289156626506

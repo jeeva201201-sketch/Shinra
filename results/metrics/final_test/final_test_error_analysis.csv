@@ -1,0 +1,83 @@
+ImageID,True_DR_Grade,CNN_Predicted_Grade,True_Referable,Fused_Predicted_Referable,Fused_P_Referable,Quality_Class,Reliability_Score,Recommended_Action,Primary_Reason
+IDRiD_001,4,4,1,1,0.691151115432949,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_002,4,2,1,1,0.697748892460941,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_003,4,2,1,1,0.816536131241182,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_004,4,1,1,0,0.422797788778701,GOOD,60.5862989818445,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_005,4,0,1,0,0.448657743377259,BORDERLINE,65.1666422947639,ACCEPT_SCREENING,Borderline image quality: sub-optimal sharpness or exposure
+IDRiD_006,3,2,1,1,0.882309298432223,GOOD,86.5077894726555,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_007,3,3,1,1,0.906252665098868,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_008,2,3,1,1,0.938305858809676,GOOD,86.9218789344357,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_009,2,3,1,1,0.999999984115897,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_012,2,1,1,0,0.388110450343048,GOOD,65.5770739586302,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_014,3,2,1,1,0.999999949383338,GOOD,89.7176003816268,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_016,3,3,1,1,0.999999978130886,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_017,2,2,1,1,0.999990784590562,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_021,3,2,1,1,1,GOOD,86.91402531206,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_022,3,2,1,1,1,GOOD,86.3999556155175,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_024,2,2,1,1,0.979076784753901,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_025,3,4,1,1,0.999999615077523,GOOD,91.6248099878653,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_026,3,4,1,1,0.999999977854318,GOOD,88.6059204634751,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_027,3,2,1,1,0.999999277376393,GOOD,89.2656756480301,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_029,0,1,0,0,0.432939764515841,GOOD,58.9848494233542,UNCERTAIN,Good image quality: clear optical focus across retinal field
+IDRiD_030,0,1,0,0,0.322123500374714,GOOD,71.2978349840027,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_031,3,1,1,1,0.518997809958712,GOOD,58.0706125434193,CLINICAL_REVIEW,Good image quality: clear optical focus across retinal field
+IDRiD_033,2,3,1,1,0.999999635736134,GOOD,84.8490323704041,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_034,3,2,1,1,0.987806007193807,GOOD,86.4583850543925,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_035,3,2,1,1,0.999983528688861,GOOD,85.3932225457154,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_036,3,2,1,1,0.999996970343572,GOOD,86.0105538513307,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_037,0,1,0,0,0.472228822911598,GOOD,54.105142225916,UNCERTAIN,Good image quality: clear optical focus across retinal field
+IDRiD_038,0,2,0,1,0.970197490506734,GOOD,89.0179052654039,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_039,0,0,0,0,0.423575418995886,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_040,4,3,1,1,0.942630824008527,GOOD,85.4477445071593,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_042,3,4,1,1,0.978133082093251,GOOD,84.8156364993922,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_043,0,1,0,0,0.294860064876235,GOOD,71.4173377433299,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_044,0,1,0,0,0.378223731826253,GOOD,66.9777866041597,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_045,0,1,0,1,0.542609255626766,GOOD,60.7396906402959,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_047,0,2,0,1,0.775936598478122,GOOD,86.3497673447472,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_048,4,2,1,1,0.967148356033644,GOOD,86.1328279996977,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_049,2,2,1,1,0.99734841100058,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_050,0,1,0,0,0.4944981953865,GOOD,50.3417625285244,UNCERTAIN,Good image quality: clear optical focus across retinal field
+IDRiD_051,2,2,1,1,0.999999984934296,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_052,0,1,0,1,0.530931152567389,GOOD,58.9261704550533,CLINICAL_REVIEW,Good image quality: clear optical focus across retinal field
+IDRiD_053,4,2,1,1,1,GOOD,83.1082315706932,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_054,0,2,0,1,0.881049327577215,GOOD,91.0235807519875,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_055,0,1,0,0,0.381681245340005,GOOD,64.2449361126568,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_056,0,1,0,0,0.357680703773887,GOOD,68.8178177558034,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_058,0,2,0,1,0.779909524496187,GOOD,87.4455850354007,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_060,3,1,1,0,0.36250842882564,GOOD,70.0884558762512,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_061,4,2,1,1,0.927232358645655,GOOD,82.6089149144074,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_062,4,2,1,1,0.944767455871541,GOOD,86.0057239558624,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_063,1,0,0,0,0.476238996307385,GOOD,53.6982852410258,UNCERTAIN,Good image quality: clear optical focus across retinal field
+IDRiD_064,3,1,1,0,0.486285184812805,GOOD,54.0899516041203,UNCERTAIN,Good image quality: clear optical focus across retinal field
+IDRiD_066,3,2,1,1,0.999966412530132,GOOD,84.2421565322916,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_067,2,2,1,1,0.999999959817915,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_068,0,1,0,0,0.490929973877096,GOOD,52.0420119254762,UNCERTAIN,Good image quality: clear optical focus across retinal field
+IDRiD_069,0,0,0,1,0.501113236373247,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_070,0,2,0,1,0.56895073128221,GOOD,66.2925974624632,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_071,0,0,0,0,0.363431070927027,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_072,2,2,1,1,0.999999985466413,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_073,1,1,0,0,0.470810254266084,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_076,2,0,1,0,0.427053188716817,GOOD,62.200640653278,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_078,0,0,0,0,0.468667325309332,GOOD,53.7178946309373,UNCERTAIN,Good image quality: clear optical focus across retinal field
+IDRiD_079,2,1,1,0,0.391701580838901,GOOD,63.8920800905807,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_081,2,0,1,0,0.439574058554796,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_082,2,1,1,0,0.467368968165648,GOOD,57.7314623662229,UNCERTAIN,Good image quality: clear optical focus across retinal field
+IDRiD_083,2,2,1,1,0.886233906360905,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_084,2,0,1,0,0.378751376101227,GOOD,70.3201712113548,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_086,2,1,1,0,0.292138027682629,GOOD,70.8446146624632,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_087,4,2,1,1,0.994776392442098,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_088,2,3,1,1,0.999995946636906,GOOD,86.576312351735,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_089,2,3,1,1,0.999991133772578,GOOD,86.3407878658378,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_091,2,3,1,1,0.999999991721092,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_092,0,0,0,0,0.497957651778966,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_093,0,0,0,0,0.473604520524174,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_094,0,3,0,1,0.885548402029941,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_095,0,2,0,1,0.889585983880409,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_096,0,2,0,1,0.977385125109041,GOOD,89.2024177886733,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field
+IDRiD_097,0,2,0,1,0.981283002875086,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_098,0,0,0,0,0.363983862465205,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_099,0,1,0,1,0.524846786779157,GOOD,58.7447708970238,CLINICAL_REVIEW,Good image quality: clear optical focus across retinal field
+IDRiD_100,2,2,1,1,0.813198685917666,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_101,1,1,0,0,0.458189286712832,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_102,2,2,1,1,0.99999775970022,UNGRADABLE,30,RECAPTURE,Ungradable image quality: optical defects obstruct retinal field
+IDRiD_103,0,1,0,0,0.31660790485918,GOOD,72.4668932510051,ACCEPT_SCREENING,Good image quality: clear optical focus across retinal field

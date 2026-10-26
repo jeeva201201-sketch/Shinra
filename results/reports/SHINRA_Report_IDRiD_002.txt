@@ -1,0 +1,67 @@
+========================================================================
+           SHINRA RETINAL SCREENING SYSTEM — CLINICAL REPORT           
+   Explainable AI for Diabetic Retinopathy Screening in Rural India    
+========================================================================
+Report Generated:   2026-10-14 22:53:28
+Image / Patient ID: IDRiD_002
+System Version:     SHINRA Production Engine V2 (Development Frozen)
+
+------------------------------------------------------------------------
+1. IMAGE QUALITY & SAFETY ASSESSMENT
+------------------------------------------------------------------------
+Quality Classification: GOOD
+Quality Composite Score: 77.2 / 100
+Gradability Status:     GRADABLE (Proceed with Screening)
+Operational Guidance:   Image quality is clinically acceptable for automated AI screening.
+
+------------------------------------------------------------------------
+2. EXTRACTED CLINICAL EVIDENCE & BIOMARKERS
+------------------------------------------------------------------------
+Optic Disc Localization: Center [107, 201] px | Radius: 44 px (Conf: 0.77)
+Foveal Risk Zone:        Center [294, 244] px | Macular Radius: 132 px
+Vessel Architecture:     Density:  1.61% | Tortuosity Index: 1.08 | Branch Points: 7
+Microaneurysms (MAs):    Count: 64 | Total Area: 594 px
+Hemorrhages (HEs):       Count: 19 | Area Fraction: 3.6370%
+Exudates (EXs):          Count: 27 | Area Fraction: 0.6414%
+Macular DME Risk Grade:  Level 2 / 3
+Neovascularization (NV): Score: 0.36 (EXPLORATORY_BIOMARKER)
+
+------------------------------------------------------------------------
+3. 5-CLASS ICDR DR SEVERITY GRADING
+------------------------------------------------------------------------
+Predicted Severity:     Grade 3 — Severe_NPDR
+Model Confidence:       52.90%
+Expected Ordinal Score: 2.56
+Class Posterior Distribution:
+  • Grade 0 (No_DR           ):  0.00%
+  • Grade 1 (Mild_NPDR       ):  0.00%
+  • Grade 2 (Moderate_NPDR   ): 45.53%
+  • Grade 3 (Severe_NPDR     ): 52.90%
+  • Grade 4 (Proliferative_DR):  1.57%
+
+------------------------------------------------------------------------
+4. REFERABLE DR CLASSIFICATION & PROBABILITY CALIBRATION
+------------------------------------------------------------------------
+Raw Referable Probability:       100.00%
+Platt-Calibrated Probability:    100.00%
+Referral Threshold Applied:      tau_ref = 0.30 (Frozen Development Plateau)
+Referral Screening Decision:     >>> REFERABLE DR <<<
+Evidence-CNN Concordance Index:  95.00%
+
+------------------------------------------------------------------------
+5. RELIABILITY SAFETY LAYER & CLINICAL TRIAGE
+------------------------------------------------------------------------
+Composite Reliability Score:      85.5 / 100 (Tier: HIGH)
+Uncertainty Assessment:          LOW
+Reliability Sub-Score Breakdown:
+  • Image Quality (S_q):         77.2 / 100
+  • Model Confidence (S_c):      52.8 / 100
+  • Boundary Margin (S_m):      100.0 / 100
+  • Completeness (S_comp):      100.0 / 100
+  • Concordance (S_agree):       97.5 / 100
+FINAL ACTIONABLE TRIAGE:         >>> ACCEPT_SCREENING <<<
+Decision Readiness:              AUTONOMOUS SCREENING ACCEPTED
+Clinical Urgency:                Specialist Ophthalmology Referral
+Recommended Follow-Up:           2 to 4 weeks (Ophthalmology Clinic Referral)
+Operational Guidance:            High-confidence referable DR detected. Schedule clinical examination with ophthalmologist.
+========================================================================

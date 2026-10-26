@@ -1,0 +1,8 @@
+Metric,Value
+Baseline_All_Cases,83
+Selective_Accepted_Cohort,60
+Coverage_Delta_Pct,-27.710843373494
+Sensitivity_Delta_Pct,-1.01809954751131
+Specificity_Delta_Pct,1.36476426799007
+F1_Delta,-0.0104138851802403
+FN_Reduction_Pct,0

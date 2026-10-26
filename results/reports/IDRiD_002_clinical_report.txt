@@ -1,0 +1,49 @@
+========================================================================================
+           SHINRA: EXPLAINABLE RETINAL SCREENING REPORT (RURAL DEPLOYMENT)              
+========================================================================================
+  Patient / Image ID:       IDRiD_002
+  Screening Timestamp:      2026-09-20 13:47:02
+  Software Engine:          SHINRA v1.0.0 (MATLAB-Native)
+----------------------------------------------------------------------------------------
+  1. RETINAL IMAGE QUALITY ASSESSMENT (FIRST-PASS SAFETY GATE)
+     • Quality Classification:  [GOOD] (Composite Score: 77.2 / 100)
+     • Focus Sharpness:         Tenengrad = 14.66 | Laplacian Var = 7.4
+     • Exposure & Illumination: Mean = 0.392 | Dark Ratio = 0.0% | Glare = 0.0%
+     • Retinal Field Coverage:  83.4% of image frame
+     • Guidance / Feedback:     Image quality is clinically acceptable for automated AI screening.
+----------------------------------------------------------------------------------------
+  2. RETINAL ANATOMY & VASCULAR ARCHITECTURE
+     • Optic Disc Location:     Center = [107, 201], Radius = 44 px (Conf: 0.77)
+     • Foveal Avascular Zone:   Center = [294, 244] (Macula Radius: 132 px)
+     • Retinal Vessel Density:  1.61% of retinal area
+     • Vascular Tortuosity:     1.085 (Normal ~ 1.05 - 1.25)
+     • Branching Complexity:    7 bifurcation nodes (Density: 0.32 / 10k px)
+----------------------------------------------------------------------------------------
+  3. QUANTIFIED CLINICAL LESION BURDEN (EVIDENCE BIOMARKERS)
+     • Microaneurysms (MAs):    64 detected (Total Area: 594 px)
+     • Retinal Hemorrhages:     19 regions (Area Fraction: 3.637%)
+     • Hard / Soft Exudates:    27 regions (Area Fraction: 0.641%)
+     • Diabetic Macular Edema:  DME Proximity Risk Score = 2.0 / 2.0
+     • Neovascularization Risk: 0.363 (Proliferative Status: EXPLORATORY_BIOMARKER)
+----------------------------------------------------------------------------------------
+  4. DIABETIC RETINOPATHY SEVERITY & MULTI-MODAL EVIDENCE FUSION
+     • Predicted ICDR Grade:    Level 1 - Mild_NPDR
+     • Ordinal Expected Grade:  2.30 / 4.0
+     • 5-Class Probability Profile:
+         - No_DR             :   0.6%
+         - Mild_NPDR         :  50.9%
+         - Moderate_NPDR     :   3.9%
+         - Severe_NPDR       :   7.1%
+         - Proliferative_DR  :  37.5%
+     • CNN Referable Probability:       48.5%
+     • Multi-Modal Fused Referable P:   66.4%
+     • Lesion-CNN Agreement Index:      0.48 / 1.00
+----------------------------------------------------------------------------------------
+  5. SCREENING RELIABILITY & FINAL CLINICAL DISPOSITION
+     • Multi-Factor Reliability:        79.2 / 100 (HIGH | Uncertainty: LOW)
+     • Sub-Scores (Q/C/M/Comp/Agr):     77.2 / 44.4 / 100.0 / 100.0 / 74.2
+     • RECOMMENDED ACTION:              >>> ACCEPT_SCREENING <<<
+     • Decision Readiness:              READY (Autonomous Acceptance)
+     • Action Rationale:                High reliability screening (79.2/100). Referable diabetic retinopathy predicted (P_ref = 66.4%).
+     • Triage Urgency:                  Specialist Ophthalmology Referral
+========================================================================================

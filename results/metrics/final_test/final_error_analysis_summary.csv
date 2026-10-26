@@ -1,0 +1,7 @@
+Failure_Mode,Total_Errors,False_Negatives_N,False_Positives_N,Deferred_By_Triage_N,Representative_Example_IDs
+Boundary / Decision Margin Ambiguity,4,2,2,4,"IDRiD_052, IDRiD_064, IDRiD_082"
+Fusion Decision / Heuristic Lesion Noise,2,0,2,0,"IDRiD_045, IDRiD_070"
+Quality / Image Acquisition,5,1,4,5,"IDRiD_069, IDRiD_081, IDRiD_094"
+Severity-Grade Confusion (CNN Overestimation),5,0,5,0,"IDRiD_038, IDRiD_047, IDRiD_054"
+Severity-Grade Confusion (Mild/Moderate Boundary),5,5,0,0,"IDRiD_012, IDRiD_076, IDRiD_079"
+Severity-Grade Confusion (Severe Underestimation),3,3,0,0,"IDRiD_004, IDRiD_005, IDRiD_060"
